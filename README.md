@@ -47,6 +47,10 @@ Then click on the compile 'file.sol' (rectangled blue box).
 Below the solidity compiler there is 'Deploy and Run transaction' boxe click there and a click on the "DEPLOY" box .
 Now we are at the last step , We can now add and burn our transaction just by putting the price on the boxes, Which is created by the functions of the code.
 
-# AUTHORS
+## AUTHORS
 
-Metacrafter AMAN KUMAR amankumaredi@gmail.com
+Metacrafter: AMAN KUMAR amankumaredi@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
