@@ -40,12 +40,12 @@ function burn(address accountAddress,uint amount) public  {
 ```
 STEPS:
 
-Go to remix id compiler , create a file with file extention '.sol' named so that you can run the code.
-Once you have created a file write the code on the file after that let compile the code , 
-To do so we have to click on solidity compiler which is in the left side menubar .
-Then click on the compile 'file.sol' (rectangled blue box).
-Below the solidity compiler there is 'Deploy and Run transaction' boxe click there and a click on the "DEPLOY" box .
-Now we are at the last step , We can now add and burn our transaction just by putting the price on the boxes, Which is created by the functions of the code.
+Go to remix id compiler , create a file with file extention '.sol' named so that you can run the code.<br>
+Once you have created a file write the code on the file after that let compile the code , <br>
+To do so we have to click on solidity compiler which is in the left side menubar .<br>
+Then click on the compile 'file.sol' (rectangled blue box).<br>
+Below the solidity compiler there is 'Deploy and Run transaction' boxe click there and a click on the "DEPLOY" box .<br>
+Now we are at the last step , We can now add and burn our transaction just by putting the price on the boxes, Which is created by the functions of the code.<br>
 
 ## AUTHORS
 
