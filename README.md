@@ -12,7 +12,7 @@ This project is going to related with the blockchain which is highly boomed nowa
 
 Online Code Editor: REMIX IDE (It is an online software to execute various coding language like solidity blockchain).
 
-// SPDX-License-Identifier: MIT
+```// SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
 contract MyTokenFun{
@@ -35,4 +35,4 @@ function burn(address accountAddress,uint amount) public  {
         balances[accountAddress] -= amount;
     }
 }
-}
+}```
