@@ -40,5 +40,7 @@ function burn(address accountAddress,uint amount) public  {
 ```
 STEPS:
 
-Go to remix id compiler , create a file with file extention .sol named so that you can run the code .
+Go to remix id compiler , create a file with file extention '.sol' named so that you can run the code.
+Once you have created a file write the code on the file after that let compile the code , to do so we have to click on solidity compiler which is in the left side menubar .
+
 
