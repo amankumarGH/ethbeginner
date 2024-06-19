@@ -38,5 +38,7 @@ function burn(address accountAddress,uint amount) public  {
 }
 }
 ```
+STEPS:
 
-aman
+Go to remix id compiler , create a file with file extention .sol named so that you can run the code .
+
